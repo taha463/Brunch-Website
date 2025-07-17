@@ -1,4 +1,4 @@
-Brunch Restaurant Management System
+Brunch 
 
 Overview                                                                                                                                                                                                                                      
 
