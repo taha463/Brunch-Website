@@ -366,4 +366,4 @@ Freepik for placeholder images.
 
 Contact
 
-For questions or support, contact the project maintainer at your-email@example.com or visit www.Brunch.com.
+For questions or support, contact the project maintainer at mt981708@gmail.com.
